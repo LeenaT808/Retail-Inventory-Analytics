@@ -25,22 +25,18 @@ Key Analysis Performed
 - Compared demand vs available stock
 - Evaluated store-wise revenue and performance
 
-Dashboard Pages
-1. Inventory Overview  
-   - Total Revenue  
-   - Low Stock Items  
-   - Inventory distribution by category  
-   - Low stock product details  
+## Dashboard Preview
 
-2. Demand vs Supply  
-   - Sales trend over time  
-   - Slow moving products  
-   - Demand vs available stock comparison  
+### Inventory Overview
+![Inventory Overview](Screenshots/inventory_overview.png)
 
-3. Store Performance  
-   - Revenue by store  
-   - Store sales summary  
-   - City-wise filtering using slicers  
+### Demand vs Supply
+![Demand vs Supply](Screenshots/demand_vs_supply.png)
+
+### Store Performance
+![Store Performance](Screenshots/store_performance.png)
+
+
 
 Outcome
 The dashboard provides clear insights that can help retail managers:
