@@ -25,17 +25,16 @@ Key Analysis Performed
 - Compared demand vs available stock
 - Evaluated store-wise revenue and performance
 
-## Dashboard Preview
+Dashboard Preview
 
-### Inventory Overview
+Inventory Overview
 ![Inventory Overview](Screenshots/inventory_overview.png)
 
-### Demand vs Supply
+Demand vs Supply
 ![Demand vs Supply](Screenshots/demand_vs_supply.png)
 
-### Store Performance
+Store Performance
 ![Store Performance](Screenshots/store_performance.png)
-
 
 
 Outcome
@@ -43,6 +42,3 @@ The dashboard provides clear insights that can help retail managers:
 - Reduce stock-out risk
 - Improve inventory turnover
 - Focus on underperforming products and stores
-
-## Author
-Leena Bisen
